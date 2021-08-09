@@ -1,0 +1,7 @@
+Command to run the program
+java numbertoword <path to text file containing phonenumbers>
+
+if you are providing your own dictionary, then
+
+java numbertoword <path to text file containing phonenumbers> -d <path to dictionary file>
+
